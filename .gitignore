@@ -1,0 +1,25 @@
+# Simulation outputs
+sim/
+*.vcd
+*.lxt
+
+# OpenLane run artifacts (large)
+runs/
+*.gds
+*.mag
+*.lef
+*.def
+
+# Yosys / synthesis
+*.blif
+*.json
+*.synth.v
+
+# Verilator build
+obj_dir/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+__pycache__/
