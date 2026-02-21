@@ -9,14 +9,6 @@
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot 1](PICS/Screenshot%20from%202026-02-21%2019-23-26.png)
-![Screenshot 2](PICS/Screenshot%20from%202026-02-21%2019-24-51.png)
-![Screenshot 3](PICS/Screenshot%20from%202026-02-21%2019-35-40.png)
-
----
-
 ## 📐 Architecture
 
 ```
@@ -81,6 +73,14 @@ ai-accel-sky130/
 | GDS Viewer | KLayout |
 | Flow Orchestrator | OpenLane |
 | PDK | SkyWater SKY130A |
+
+---
+
+## 📸 Screenshots
+
+![Screenshot 1](PICS/Screenshot%20from%202026-02-21%2019-23-26.png)
+![Screenshot 2](PICS/Screenshot%20from%202026-02-21%2019-24-51.png)
+![Screenshot 3](PICS/Screenshot%20from%202026-02-21%2019-35-40.png)
 
 ---
 
