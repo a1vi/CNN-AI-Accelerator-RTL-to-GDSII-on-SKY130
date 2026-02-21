@@ -1,6 +1,6 @@
 # CNN AI Accelerator — RTL-to-GDSII on SKY130
 
-[![RTL Lint & Simulation](https://github.com/<YOUR_USERNAME>/ai-accel-sky130/actions/workflows/ci.yml/badge.svg)](https://github.com/<YOUR_USERNAME>/ai-accel-sky130/actions/workflows/ci.yml)
+
 ![PDK](https://img.shields.io/badge/PDK-SKY130A-blue)
 ![Flow](https://img.shields.io/badge/Flow-OpenLane-green)
 ![License](https://img.shields.io/badge/License-Apache_2.0-lightgrey)
