@@ -34,31 +34,7 @@ accN <= accN + aN * bN   (signed 8-bit × 8-bit → added to 32-bit accumulator)
 
 ---
 
-## 🗂️ Repository Layout
 
-```
-ai-accel-sky130/
-├── src/                     RTL source
-│   ├── mac.v                Single combinational MAC unit
-│   ├── mac_array.v          4-lane registered MAC array
-│   └── ai_accel.v           Top-level wrapper
-├── tb/                      Testbenches
-│   └── tb_ai_accel.v        Self-checking testbench (Icarus/Verilator)
-├── openlane/
-│   └── ai_accel/
-│       └── config.tcl       OpenLane flow configuration
-├── scripts/
-│   ├── lint.sh              Verilator lint
-│   ├── sim.sh               Icarus Verilog simulation
-│   └── run_openlane.sh      Full RTL-to-GDSII flow
-├── docs/
-│   └── ...                  (timing reports, screenshots — add after run)
-├── .github/workflows/
-│   └── ci.yml               GitHub Actions: lint + sim on every push
-└── README.md
-```
-
----
 
 ## ⚙️ Toolchain
 
